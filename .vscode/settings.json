@@ -1,0 +1,4 @@
+{
+	"solidity.compileUsingRemoteVersion": "v0.8.24+commit.45d6f7cd", // 使用したいSolidityバージョンを指定
+	"solidity.defaultCompiler": "remote" // リモートバージョンを使用する場合
+}
